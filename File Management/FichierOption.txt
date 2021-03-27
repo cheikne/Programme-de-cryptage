@@ -1,0 +1,10 @@
+Syntax : crypt.e -[OPTION] Name_File Key_Crypetage
+
+		Name_File :Le nom du fichier a crypter ou a decrypeter
+
+		Key_Cryptage : La cle de crypetage ou decryptage
+
+		OPTION :
+
+		-c :Pour le  cryptage de fichier
+		-d :Pour le decrypetage de fichier
